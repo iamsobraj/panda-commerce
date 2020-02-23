@@ -19,3 +19,50 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1, .cat2, .cat3{
+    padding:10px 30px;
+    border-radius: 15px;
+}
+.cat1{
+    background-image: linear-gradient(to right, orange , tomato);
+}
+.cat2{
+    background-image: linear-gradient(to right, purple, pink);
+}
+.cat3{
+    background-image: linear-gradient(to right, lightblue , darkblue 100%);
+}
+.categories h1{
+    color:white; 
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border:none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+    text-align: justify;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+    text-align: justify;
+   
+}
+#contact{
+    height:300px;
+}
+#contact h6{
+    color: gray;
+    padding-bottom: 5px;
+}
+.margin-top{
+    margin-top: 5px;
+    margin-left: 30%;
+}
+.footer-panda{
+    text-align: center;
+    font-size: small;
+    color: gray;
+}
